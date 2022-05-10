@@ -1,3 +1,4 @@
+import React from 'react';
 import { useContext, useState } from "react";
 import { login } from "../../authContext/apiCalls";
 import { AuthContext } from "../../authContext/AuthContext";

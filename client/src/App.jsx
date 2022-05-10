@@ -1,3 +1,4 @@
+import React from 'react';
 import "./app.scss";
 import Home from "./pages/home/Home";
 import Register from "./pages/register/Register";

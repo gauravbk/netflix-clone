@@ -1,3 +1,4 @@
+import React from 'react';
 import { ArrowDropDown, Notifications, Search } from "@material-ui/icons";
 import { useContext, useState } from "react";
 import "./navbar.scss";
